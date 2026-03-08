@@ -1,0 +1,5 @@
+C:\Users\user\kpi\Prog2\lab_2_double_s_Feature_team9\obj\Debug\net9.0\lab_2_double_s_Feature_team9.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\kpi\Prog2\lab_2_double_s_Feature_team9\obj\Debug\net9.0\lab_2_double_s_Feature_team9.AssemblyInfoInputs.cache
+C:\Users\user\kpi\Prog2\lab_2_double_s_Feature_team9\obj\Debug\net9.0\lab_2_double_s_Feature_team9.AssemblyInfo.cs
+C:\Users\user\kpi\Prog2\lab_2_double_s_Feature_team9\obj\Debug\net9.0\lab_2_double_s_Feature_team9.csproj.CoreCompileInputs.cache
+C:\Users\user\kpi\Prog2\lab_2_double_s_Feature_team9\obj\Debug\net9.0\lab_2_double_s_Feature_team9.sourcelink.json
